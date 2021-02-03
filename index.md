@@ -20,9 +20,9 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 # Research Interests 
-#### Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
-#### Resource Allocation for Green Wireless Networks
-#### Mobile Edge Computing and Intelligence
+#### 1. Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
+#### 2. Resource Allocation for Green Wireless Networks
+#### 3. Mobile Edge Computing and Intelligence
 
 
 # Publications
@@ -57,14 +57,14 @@ and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 
 # Research Team
 ### Graduate Students
-Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn  
-Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
+1. Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn  
+2. Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
 
 # Teaching 
 
-#### Computer Networks 
-#### Introduction to Artificial Intelligence
-#### Statistics 
+#### 1. Computer Networks 
+#### 2. Introduction to Artificial Intelligence
+#### 3. Statistics 
 
 
 # Professional Activities
