@@ -1,6 +1,4 @@
-
-
-<img src="/home/LWang.png" width = "200" height = "300" alt="" align=center />
+！[MyPhoto](/home/LWang.png)
 
 # Biography
 ## Employment
