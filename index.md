@@ -45,6 +45,15 @@ China Postdoctoral Science Foundation under Grant 2016M600761
 Natural Science Basic Research Plan in Shaanxi Province of China under Grant 2018JQ6048  
 
 # Patents
+1. Min Sheng, **Liang Wang**, Yan Shi, Yan Zhang, Xijun Wang, Jiandong Li, Xiao Ma, Guoqing
+Liu, and Chao Xu (2016). A robust energy efficient transmission method in cognitive radio
+networks. Chinese. Pat. No. ZL201310534296.0.
+2. Weijia Han, Xiao Ma, and **Liang Wang** (2017). An uplink and downlink power allocation
+method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
+3. Lichen Zhang, Ruonan Zhao, Xiaoming Wang, Peng Li, **Liang Wang**, and Yaguang Lin (2017).
+A routing method for oppurtunistic networks. Chinese. Pat. No. ZL201610202151.4.
+4. Lichen Zhang, Ruonan Zhao, Xiaoming Wang, and **Liang Wang** (2018). A content request
+and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 
 # Research Team
 ### Graduate Students
@@ -76,6 +85,6 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 
 # Contacts
 E-mail：wangliang@snnu.edu.cn  
-        wangliangxd@gmail.com
+            wangliangxd@gmail.com
         
 
