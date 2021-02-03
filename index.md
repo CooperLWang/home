@@ -48,7 +48,7 @@ Natural Science Basic Research Plan in Shaanxi Province of China under Grant 201
 
 # Research Team
 ### Graduate Students
-Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn
+Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn  
 Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
 
 # Teaching 
