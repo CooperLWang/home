@@ -1,7 +1,4 @@
-# home
-Welcome to Liang Wang's home page!
-
-！[MyPhoto](/home/LWang.png)  
+# Welcome to Liang Wang's homepage!
 
 ### This is a personal website for Liang Wang, who currently is an Associate Professor at School of Computer Science in Shaanxi Normal University.
 
