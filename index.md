@@ -1,4 +1,4 @@
-![Figure](/CooperLWang/home/LWang.png)
+![MyPhoto](/CooperLWang/home/LWang.png)
 
 # Biography
 ## Employment
