@@ -59,13 +59,13 @@ China (IEEE CIC ICCC 2017), Oct. 22–24, 2017, Qingdao, China.
 China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 
 ## Memberships
-• Institute of Electrical and Electronic Engineers (IEEE) Communications Society
+• Institute of Electrical and Electronic Engineers (IEEE) Communications Society  
 – Member (No. 93947858), 2016 – Current.
 
-• Association for Computing Machinery (ACM)
+• Association for Computing Machinery (ACM)  
 – Member (No. 9234001), 2017 – Current.
 
-• China Computer Federation (CCF)
+• China Computer Federation (CCF)  
 – Member (No. 58529M), 2016 – Current.
 
 # Contacts
