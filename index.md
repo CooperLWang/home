@@ -1,4 +1,6 @@
-！[Alt text](/home/LWang.png)
+
+
+<img src="/home/LWang.png" width = "200" height = "300" alt="" align=center />
 
 # Biography
 ## Employment
