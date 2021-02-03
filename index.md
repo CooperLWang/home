@@ -1,4 +1,4 @@
-![MyPhoto](/CooperLWang/home/LWang.png)
+！[Alt text](/home/LWang.png)
 
 # Biography
 ## Employment
