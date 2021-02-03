@@ -1,15 +1,16 @@
 # Biography
 ## Employment
-• Associate Professor, Jan. 2020 – Current.
+• Associate Professor, Jan. 2020 – Current.  
 School of Computer Science, Shaanxi Normal University, Xi’an, China.
 
-• Visiting Scholar, Oct. 2018 – Oct. 2019.
+• Visiting Scholar, Oct. 2018 – Oct. 2019.  
 School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA.
 
-• Assistant Professor, Dec. 2015 – Dec. 2019.
+• Assistant Professor, Dec. 2015 – Dec. 2019.  
 School of Computer Science, Shaanxi Normal University, Xi’an, China.
 
-• R&D Engineer, Aug. 2015 – Dec. 2015.
+• R&D Engineer, Aug. 2015 – Dec. 2015.  
+
 Xi’an Microelectronics Technology Institute, Xi’an, China.
 
 ## Education
