@@ -20,9 +20,9 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 # Research Interests 
-#### 1. Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
-#### 2. Resource Allocation for Green Wireless Networks
-#### 3. Mobile Edge Computing and Intelligence
+1. Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
+2. Resource Allocation for Green Wireless Networks
+3. Mobile Edge Computing and Intelligence
 
 
 # Publications
@@ -62,9 +62,9 @@ and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 
 # Teaching 
 
-#### 1. Computer Networks 
-#### 2. Introduction to Artificial Intelligence
-#### 3. Statistics 
+1. Computer Networks 
+2. Introduction to Artificial Intelligence
+3. Statistics 
 
 
 # Professional Activities
