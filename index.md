@@ -2,9 +2,25 @@
 
 王亮，男，1986年3月出生，陕西乾县人，博士，副教授。2009年7月取得西安电子科技大学通信工程专业学士学位，2015年7月取得西安电子科技大学通信与信息系统专业博士学位，2015年8月至2015年12月就职于中国航天科技集团九院七七一所研究发展部。2015年12月至今就职于陕西师范大学计算机科学学院从事科研教学工作。2018-2019年美国佐治亚理工学院电子与计算机系访问学者。中国计算机学会会员，IEEE Member。先后主持国家自然科学基金面上项目1项、青年项目1项和中国博士后科学基金项目（一等资助）1项，在IEEE Journal on Selected Areas in Communications、IEEE Transactions on Communications、通信学报等国内外期刊及会议上发表学术论文20余篇。
 
+
+## Employment
+• Associate Professor, Jan. 2020 – Current.
+School of Computer Science, Shaanxi Normal University, Xi’an, China.
+• Assistant Professor, Dec. 2015 – Dec. 2019.
+School of Computer Science, Shaanxi Normal University, Xi’an, China.
+• R&D Engineer, Aug. 2015 – Dec. 2015.
+Xi’an Microelectronics Technology Institute, Xi’an, China.
+## Education
+• Ph.D. in Communication and Information Systems (Combined Masters and Ph.D. Program), Sept. 2009 – Jul. 2015.
+School of Telecommunications Engineering, Xidian University, Xi’an, China.
+• Bachelor in Telecommunications Engineering, Sept. 2005 – Jul. 2009.
+School of Telecommunications Engineering, Xidian University, Xi’an, China.
+
 ### Research Interests 
-Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)，Resource Allocation for Green Wireless Networks, Mobile Edge Computing.
-### 发明专利
+## Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
+## Resource Allocation for Green Wireless Networks
+## Mobile Edge Computing and Intelligence
+
 
 ### Publications
 [1] Liang Wang*, Hao Ye, Le Liang and Geoffrey Ye Li, “Learn to Compress CSI and Allocate Resources in Vehicular Networks,” in IEEE Transactions on Communications, vol. 68, no. 6, pp. 3640-3653, Jun. 2020.
@@ -17,7 +33,7 @@ Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)，Res
 
 [5] Liang Wang, Min Sheng, Yan Zhang, and Hailong Jiang, “IM-Torch: Interference Mitigation via Traffic Offloading in Macro/Femtocell + WiFi HetNets”, 2013 IEEE 24th International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC), vol., no., pp. 1705-1709, 8-11 Sept. 2013.
 
-[6] 王亮, 盛敏*, 张琰, 马骁, 基于信道状态感知的多信道认知多址接入协议, 通信学报, 2014年4月, 35(4): 65-73+80.
+[6] Liang Wang, Min Sheng*, Yan Zhang and Xiao Ma, "CAM-MAC: channel aware multi-channel MAC protocol in cognitive radio network", in Journal on Communications, vol. 35, no.4, Apr. 2014.
 
 [7] Yanting Wang, Min Sheng, Xijun Wang, Liang Wang, and Jiandong Li, “Mobile-Edge Computing: Partial Computation Offloading Using Dynamic Voltage Scaling,” in IEEE Transactions on Communications, vol. 64, no. 10, pp. 4268-4282, Oct. 2016.
 
@@ -27,7 +43,33 @@ Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)，Res
 
 [10] Yaguang Lin, Zhipeng Cai, Xiaoming Wang, Fei Hao, Liang Wang and Akshita Maradapu Vera Venkata Sai, “Multi-Round Incentive Mechanism for Cold Start-Enabled Mobile Crowdsensing,” in IEEE Transactions on Vehicular Technology, Early Access.
 
-### Projects:
+### Projects
+
+### Patents
+
+
+### Teaching 
+
+## Computer Networks 
+## Introduction to Artificial Intelligence
+## Statistics 
+
+
+### Professional Activities
+## Conference Committee Memberships
+1. Technical Program Committee member of 2018 International Conference on Communications
+(ICC 2018), May 20–24, 2018, Kansas City, Missouri, USA.
+2. Technical Program Committee member of IEEE/CIC International on Communications in
+China (IEEE CIC ICCC 2017), Oct. 22–24, 2017, Qingdao, China.
+3. Technical Program Committee member of IEEE/CIC International on Communications in
+China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
+## Memberships
+• Institute of Electrical and Electronic Engineers (IEEE) Communications Society
+– Member (No. 93947858), 2016 – Current.
+• Association for Computing Machinery (ACM)
+– Member (No. 9234001), 2017 – Current.
+• China Computer Federation (CCF)
+– Member (No. 58529M), 2016 – Current.
 
 
 
