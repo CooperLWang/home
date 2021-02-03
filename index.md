@@ -1,6 +1,9 @@
-！[MyPhoto](/home/LWang.png)
+
 
 # Biography
+
+！[MyPhoto](/home/LWang.png)  
+
 ## Employment
 • Associate Professor, Jan. 2020 – Current.  
 School of Computer Science, Shaanxi Normal University, Xi’an, China.
