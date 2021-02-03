@@ -1,4 +1,4 @@
-![](/home/github-Fig.jpg)
+![Figure](/home/github-Fig.jpg)
 
 # Biography
 ## Employment
