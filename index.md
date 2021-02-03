@@ -34,8 +34,8 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 [6] Liang Wang, Min Sheng*, Yan Zhang and Xiao Ma, "CAM-MAC: channel aware multi-channel MAC protocol in cognitive radio network", in Journal on Communications, vol. 35, no.4, Apr. 2014.  
 [7] Yanting Wang, Min Sheng, Xijun Wang, Liang Wang, and Jiandong Li, “Mobile-Edge Computing: Partial Computation Offloading Using Dynamic Voltage Scaling,” in IEEE Transactions on Communications, vol. 64, no. 10, pp. 4268-4282, Oct. 2016.  
 [8] Weijia Han, Chuan Huang*, Jiandong Li, Xiao Ma and Liang Wang, “Efficient 3D Resource Management for Spectrum Aggregation in Cellular Networks,” in IEEE Journal on Selected Areas in Communications, vol. 35, no. 1, pp. 106-117, Jan. 2017.  
-[9] Pengfei Wan, Xiaoming Wang*, Xinyan Wang, Liang Wang, Yaguang Lin, Wei Zhao, “Intervening coupling diffusion of competitive information in online social networks”, in IEEE Transactions on Knowledge and Data Engineering, Early Access.  
-[10] Yaguang Lin, Zhipeng Cai, Xiaoming Wang, Fei Hao, Liang Wang and Akshita Maradapu Vera Venkata Sai, “Multi-Round Incentive Mechanism for Cold Start-Enabled Mobile Crowdsensing,” in IEEE Transactions on Vehicular Technology, Early Access.  
+[9] Pengfei Wan, Xiaoming Wang*, Xinyan Wang, **Liang Wang**, Yaguang Lin, Wei Zhao, “Intervening coupling diffusion of competitive information in online social networks”, in *IEEE Transactions on Knowledge and Data Engineering*, Early Access.  
+[10] Yaguang Lin, Zhipeng Cai, Xiaoming Wang, Fei Hao, **Liang Wang**, and Akshita Maradapu Vera Venkata Sai, “Multi-Round Incentive Mechanism for Cold Start-Enabled Mobile Crowdsensing,” in *IEEE Transactions on Vehicular Technology*, Early Access.  
 
 # Projects
 
@@ -68,7 +68,7 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 – Member (No. 58529M), 2016 – Current.
 
 # Contacts
-E-mail：wangliang@snnu.edu.cn
+E-mail：wangliang@snnu.edu.cn  
         wangliangxd@gmail.com
         
 
