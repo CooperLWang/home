@@ -1,4 +1,4 @@
-### Biography
+# Biography
 
 王亮，男，1986年3月出生，陕西乾县人，博士，副教授。2009年7月取得西安电子科技大学通信工程专业学士学位，2015年7月取得西安电子科技大学通信与信息系统专业博士学位，2015年8月至2015年12月就职于中国航天科技集团九院七七一所研究发展部。2015年12月至今就职于陕西师范大学计算机科学学院从事科研教学工作。2018-2019年美国佐治亚理工学院电子与计算机系访问学者。中国计算机学会会员，IEEE Member。先后主持国家自然科学基金面上项目1项、青年项目1项和中国博士后科学基金项目（一等资助）1项，在IEEE Journal on Selected Areas in Communications、IEEE Transactions on Communications、通信学报等国内外期刊及会议上发表学术论文20余篇。
 
@@ -16,13 +16,13 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 • Bachelor in Telecommunications Engineering, Sept. 2005 – Jul. 2009.
 School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
-### Research Interests 
+# Research Interests 
 ## Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
 ## Resource Allocation for Green Wireless Networks
 ## Mobile Edge Computing and Intelligence
 
 
-### Publications
+# Publications
 [1] Liang Wang*, Hao Ye, Le Liang and Geoffrey Ye Li, “Learn to Compress CSI and Allocate Resources in Vehicular Networks,” in IEEE Transactions on Communications, vol. 68, no. 6, pp. 3640-3653, Jun. 2020.
 
 [2] Min Sheng, Liang Wang*, Xijun Wang, Yan Zhang, Xu Chao and Jiandong Li, “Energy Efficient Beamforming in MISO Heterogeneous Cellular Networks with Wireless Information and Power Transfer”, in IEEE Journal on Selected Areas in Communications, vol. 34, no. 4, pp. 954-968, Apr. 2016.
@@ -43,19 +43,19 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 [10] Yaguang Lin, Zhipeng Cai, Xiaoming Wang, Fei Hao, Liang Wang and Akshita Maradapu Vera Venkata Sai, “Multi-Round Incentive Mechanism for Cold Start-Enabled Mobile Crowdsensing,” in IEEE Transactions on Vehicular Technology, Early Access.
 
-### Projects
+# Projects
 
-### Patents
+# Patents
 
 
-### Teaching 
+# Teaching 
 
 ## Computer Networks 
 ## Introduction to Artificial Intelligence
 ## Statistics 
 
 
-### Professional Activities
+# Professional Activities
 ## Conference Committee Memberships
 1. Technical Program Committee member of 2018 International Conference on Communications
 (ICC 2018), May 20–24, 2018, Kansas City, Missouri, USA.
