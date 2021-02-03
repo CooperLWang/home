@@ -13,7 +13,7 @@ School of Computer Science, Shaanxi Normal University, Xi’an, China.
 Xi’an Microelectronics Technology Institute, Xi’an, China.
 
 ## Education
-• Ph.D. in Communication and Information Systems (Combined Masters and Ph.D. Program), Sept. 2009 – Jul. 2015.  
+• Ph.D. in Communication and Information Systems, Sept. 2009 – Jul. 2015.  
 School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 • Bachelor in Telecommunications Engineering, Sept. 2005 – Jul. 2009.  
@@ -38,6 +38,11 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 [10] Yaguang Lin, Zhipeng Cai, Xiaoming Wang, Fei Hao, **Liang Wang**, and Akshita Maradapu Vera Venkata Sai, “Multi-Round Incentive Mechanism for Cold Start-Enabled Mobile Crowdsensing,” in *IEEE Transactions on Vehicular Technology*, Early Access.  
 
 # Projects
+
+National Natural Science Foundation of China under Grant 61601273 and 62071283  
+Fundamental Research Funds for the Central Universities under Grant GK202003075  
+China Postdoctoral Science Foundation under Grant 2016M600761  
+Natural Science Basic Research Plan in Shaanxi Province of China under Grant 2018JQ6048  
 
 # Patents
 
