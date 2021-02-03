@@ -1,4 +1,4 @@
-![Figure](github-Fig.jpg)
+![Figure](/CooperLWang/home/github-Fig.jpg)
 
 # Biography
 ## Employment
