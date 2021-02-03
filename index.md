@@ -1,11 +1,9 @@
 # Biography
-
-王亮，男，1986年3月出生，陕西乾县人，博士，副教授。2009年7月取得西安电子科技大学通信工程专业学士学位，2015年7月取得西安电子科技大学通信与信息系统专业博士学位，2015年8月至2015年12月就职于中国航天科技集团九院七七一所研究发展部。2015年12月至今就职于陕西师范大学计算机科学学院从事科研教学工作。2018-2019年美国佐治亚理工学院电子与计算机系访问学者。中国计算机学会会员，IEEE Member。先后主持国家自然科学基金面上项目1项、青年项目1项和中国博士后科学基金项目（一等资助）1项，在IEEE Journal on Selected Areas in Communications、IEEE Transactions on Communications、通信学报等国内外期刊及会议上发表学术论文20余篇。
-
-
 ## Employment
 • Associate Professor, Jan. 2020 – Current.
 School of Computer Science, Shaanxi Normal University, Xi’an, China.
+• Visiting Scholar, Oct. 2018 – Oct. 2019.
+School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA.
 • Assistant Professor, Dec. 2015 – Dec. 2019.
 School of Computer Science, Shaanxi Normal University, Xi’an, China.
 • R&D Engineer, Aug. 2015 – Dec. 2015.
@@ -17,9 +15,9 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 # Research Interests 
-## Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
-## Resource Allocation for Green Wireless Networks
-## Mobile Edge Computing and Intelligence
+### Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning)
+### Resource Allocation for Green Wireless Networks
+### Mobile Edge Computing and Intelligence
 
 
 # Publications
@@ -50,9 +48,9 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 # Teaching 
 
-## Computer Networks 
-## Introduction to Artificial Intelligence
-## Statistics 
+### Computer Networks 
+### Introduction to Artificial Intelligence
+### Statistics 
 
 
 # Professional Activities
@@ -66,10 +64,15 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 ## Memberships
 • Institute of Electrical and Electronic Engineers (IEEE) Communications Society
 – Member (No. 93947858), 2016 – Current.
+
 • Association for Computing Machinery (ACM)
 – Member (No. 9234001), 2017 – Current.
+
 • China Computer Federation (CCF)
 – Member (No. 58529M), 2016 – Current.
 
-
+# Contacts
+E-mail：wangliang@snnu.edu.cn
+        wangliangxd@gmail.com
+        
 
