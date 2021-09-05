@@ -93,6 +93,7 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 # Contacts
 E-mail：
 • wangliang@snnu.edu.cn
+
 • wangliangxd@gmail.com
         
 
