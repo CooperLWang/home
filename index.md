@@ -101,5 +101,5 @@ E-mail：
 
 [//]: <> (<p style="align: center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246774&amp;c=9740635" alt="AmazingCounters.com"/></a></p>)
 
-[//]: <> ([img]http://cc.amazingcounters.com/counter.php?i=3246774&c=9740635[/img]
-[url=http://www.amazingcounters.com]AmazingCounters.com[/url])
+[//]: <> ([img]http://cc.amazingcounters.com/counter.php?i=3246774&c=9740635[/img])
+[//]: <> ([url=http://www.amazingcounters.com]AmazingCounters.com[/url])
