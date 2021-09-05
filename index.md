@@ -91,7 +91,8 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 – Member (No. 58529M), 2016 – Current.
 
 # Contacts
-E-mail：wangliang@snnu.edu.cn
-　　　　wangliangxd@gmail.com
+E-mail：
+• wangliang@snnu.edu.cn
+• wangliangxd@gmail.com
         
 
