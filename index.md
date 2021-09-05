@@ -65,7 +65,7 @@ and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 1. Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn  
 2. Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
 
-At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn 
+　　　At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn 
 
 # Teaching 
 
@@ -91,7 +91,7 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 – Member (No. 58529M), 2016 – Current.
 
 # Contacts
-E-mail：wangliang@snnu.edu.cn  
-            wangliangxd@gmail.com
+E-mail：wangliang@snnu.edu.cn
+　　　　wangliangxd@gmail.com
         
 
