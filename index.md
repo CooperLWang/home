@@ -62,10 +62,10 @@ and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 
 # Research Team
 ### Graduate Students
-4 Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu@snnu.edu.cn
-3 Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng@snnu.edu.cn
-2 Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn
-1 Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
+• Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu@snnu.edu.cn
+• Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng@snnu.edu.cn
+• Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn
+• Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
 
 
 [//]: <> (At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn) 
