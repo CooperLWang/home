@@ -10,5 +10,5 @@
 3. Mobile Edge Computing and Intelligence
 
 ### If you are also interested in these fields, please feel free to contact me. 
-### E-mail: wangliang@snnu.edu.cn or wangliangxd@gmail.com.
-### Thanks again for your attentions!
+### E-mail: wangliangATsnnu.edu.cn or wangliangxdATgmail.com.
+### Thanks again for your attention!
