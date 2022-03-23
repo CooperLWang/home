@@ -2,7 +2,9 @@
 
 # Biography
 
-！[MyPhoto](/home/LWang.png)  
+[//]: ！[MyPhoto](/home/LWang.png)  
+
+![LWang](https://user-images.githubusercontent.com/44579548/159713551-0488d31d-5fc0-4a08-9939-8915c0d8d3f1.png)
 
 ## Employment
 • Associate Professor, Jan. 2020 – Current.  
@@ -53,7 +55,8 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 1. **Liang Wang**, Mengge Li, Xiaoming Wang, Lichen Zhang, Fei Hao, and Yaguang Lin (2021).
 An eMBB and URLLC multiplexing method with guaranteeing the QoS requirements. Chinese. 
 Pub. No. CN112888072A.
-2. Min Sheng, **Liang Wang**, Yan Shi, Yan Zhang, Xijun Wang, Jiandong Li, Xiao Ma, Guoqing
+2. Min Sheng, **Liang Wang**, Yan Shi, Yan Zhang, Xijun Wang, Jiandong Li, Xiao Ma, Guoqing!
+
 Liu, and Chao Xu (2016). A robust energy efficient transmission method in cognitive radio
 networks. Chinese. Pat. No. ZL201310534296.0.
 3. Xiaoming Wang, Xinyan Wang, **Liang Wang**, Fei Hao, Lichen Zhang, and Peng Li (2019).
