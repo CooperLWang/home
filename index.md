@@ -50,15 +50,17 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 4. Natural Science Basic Research Plan in Shaanxi Province of China under Grant 2018JQ6048  
 
 # Patents
-1. Min Sheng, **Liang Wang**, Yan Shi, Yan Zhang, Xijun Wang, Jiandong Li, Xiao Ma, Guoqing
+1. **Liang Wang**, Mengge Li, Xiaoming Wang, Lichen Zhang, Fei Hao, and Yaguang Lin(2021).
+An eMBB and URLLC multiplexing method with guaranteeing the QoS requirements. Chinese. 
+Pub. No. CN112888072A.
+2. Min Sheng, **Liang Wang**, Yan Shi, Yan Zhang, Xijun Wang, Jiandong Li, Xiao Ma, Guoqing
 Liu, and Chao Xu (2016). A robust energy efficient transmission method in cognitive radio
 networks. Chinese. Pat. No. ZL201310534296.0.
-2. Weijia Han, Xiao Ma, and **Liang Wang** (2017). An uplink and downlink power allocation
+3. Xiaoming Wang, Xinyan Wang, **Liang Wang**, Fei Hao, Lichen Zhang, and Peng Li(2019).
+Monitoring and control methods for positive and negative information coupling and diffusion 
+in online social networks. Chinese. Pat. No. ZL201811336202.8
+4. Weijia Han, Xiao Ma, and **Liang Wang** (2017). An uplink and downlink power allocation
 method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
-3. Lichen Zhang, Ruonan Zhao, Xiaoming Wang, Peng Li, **Liang Wang**, and Yaguang Lin (2017).
-A routing method for oppurtunistic networks. Chinese. Pat. No. ZL201610202151.4.
-4. Lichen Zhang, Ruonan Zhao, Xiaoming Wang, and **Liang Wang** (2018). A content request
-and response method based on D2D communications. Chinese. Pat. ZL201710016871.6.
 
 # Research Team
 ### Graduate Students
