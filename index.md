@@ -70,7 +70,7 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 2. Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn
 3. Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng@snnu.edu.cn
 4. Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu@snnu.edu.cn
-5. Anna Cai, Sept. 2022, E-mail: 
+5. Anna Cai, Sept. 2022, E-mail: cieray@snnu.edu.cn
 6. Cong Liu, Sept. 2022, E-mail: liucong@snnu.edu.cn
 
 
