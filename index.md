@@ -34,7 +34,7 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 # Publications
 1. **Liang Wang***, Hao Ye, Le Liang and Geoffrey Ye Li, “Learn to Compress CSI and Allocate Resources in Vehicular Networks,” in *IEEE Transactions on Communications*, vol. 68, no. 6, pp. 3640-3653, Jun. 2020.  
-2. Min Sheng, **Liang Wang***, Xijun Wang, Yan Zhang, Xu Chao and Jiandong Li, “Energy Efficient Beamforming in MISO Heterogeneous Cellular Networks with Wireless Information and Power Transfer”, in * IEEE Journal on Selected Areas in Communications *, vol. 34, no. 4, pp. 954-968, Apr. 2016.  
+2. Min Sheng, **Liang Wang***, Xijun Wang, Yan Zhang, Xu Chao and Jiandong Li, “Energy Efficient Beamforming in MISO Heterogeneous Cellular Networks with Wireless Information and Power Transfer”, in *IEEE Journal on Selected Areas in Communications*, vol. 34, no. 4, pp. 954-968, Apr. 2016.  
 3. **Liang Wang**, Min Sheng*, Yan Zhang, Xijun Wang, and Chao Xu, “Robust Energy Efficiency Maximization in Cognitive Radio Networks: The Worst-Case Optimization Approach”, in *IEEE Transactions on Communications*, vol. 63, no. 1, pp. 51-65, Jan. 2015.  
 4. **Liang Wang**, Min Sheng*, Xijun Wang, Yan Zhang, and Xiao Ma, “Mean Energy Efficiency Maximization in Cognitive Radio Channels With PU Outage Constraint”, in *IEEE Communications Letters*, vol. 19, no. 2, pp. 287-290, Feb. 2015.  
 5. **Liang Wang**, Min Sheng, Yan Zhang, and Hailong Jiang, “IM-Torch: Interference Mitigation via Traffic Offloading in Macro/Femtocell + WiFi HetNets”, *2013 IEEE 24th International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC)*, vol., no., pp. 1705-1709, 8-11 Sept. 2013.  
