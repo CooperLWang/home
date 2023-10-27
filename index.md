@@ -69,11 +69,11 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 1. Mengge Li, Sept. 2019, E-mail: 192339 AT snnu.edu.cn
 2. Jiarong Du, Sept. 2020, E-mail: dujiarong AT snnu.edu.cn
 3. Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng AT snnu.edu.cn
-4. Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu@snnu.edu.cn
-5. Anna Cai, Sept. 2022, E-mail: cieray@snnu.edu.cn
-6. Cong Liu, Sept. 2022, E-mail: liucong@snnu.edu.cn
-7. Jiamin Fan, Sept. 2023, E-mail: fanjiamin@snnu.edu.cn
-8. Zhenzheng Shi, Sept. 2023, E-mail: shizhenzheng@snnu.edu.cn
+4. Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu AT snnu.edu.cn
+5. Anna Cai, Sept. 2022, E-mail: cieray AT snnu.edu.cn
+6. Cong Liu, Sept. 2022, E-mail: liucong AT snnu.edu.cn
+7. Jiamin Fan, Sept. 2023, E-mail: fanjiamin AT snnu.edu.cn
+8. Zhenzheng Shi, Sept. 2023, E-mail: shizhenzheng AT snnu.edu.cn
 
 ## Students' Publications
 1. **Mengge Li**, Jiarong Du, Liang Wang*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” in *2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021)*, Naples, FL, USA, 2021, pp. 1-6.
@@ -108,9 +108,9 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 # Contacts
 E-mail：
 
-• wangliang@snnu.edu.cn
+• wangliang AT snnu.edu.cn
 
-• wangliangxd@gmail.com
+• wangliangxd AT gmail.com
         
 [//]: <> (<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246774&c=9740635" alt="AmazingCounters.com"></a></div>)
 
