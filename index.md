@@ -65,14 +65,18 @@ in online social networks. Chinese. Pat. No. ZL201811336202.8
 method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 
 # Research Team
-### Graduate Students
+## Graduate Students
 1. Mengge Li, Sept. 2019, E-mail: 192339@snnu.edu.cn
 2. Jiarong Du, Sept. 2020, E-mail: dujiarong@snnu.edu.cn
 3. Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng@snnu.edu.cn
 4. Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu@snnu.edu.cn
 5. Anna Cai, Sept. 2022, E-mail: cieray@snnu.edu.cn
 6. Cong Liu, Sept. 2022, E-mail: liucong@snnu.edu.cn
+7. Jiamin Fan, Sept. 2023, E-mail: fanjiamin@snnu.edu.cn
+8. Zhenzheng Shi, Sept. 2023, E-mail: shizhenzheng@snnu.edu.cn
 
+## Students' Publications
+[5] Mengge Li, Jiarong Du, Liang Wang*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” 2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021), Naples, FL, USA, 2021, pp. 1-6.
 
 [//]: <> (At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn) 
 
