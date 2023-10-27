@@ -76,7 +76,9 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 8. Zhenzheng Shi, Sept. 2023, E-mail: shizhenzheng@snnu.edu.cn
 
 ## Students' Publications
-[5] Mengge Li, Jiarong Du, Liang Wang*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” 2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021), Naples, FL, USA, 2021, pp. 1-6.
+[1] Mengge Li, Jiarong Du, Liang Wang*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” in *2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021)*, Naples, FL, USA, 2021, pp. 1-6.
+[2] Jiarong Du, Liang Wang*, Yaguang Lin, Pengcheng Qian, “Vehicle-Road Cooperative Task Offloading with Task Migration in MEC-Enabled IoV”, in *International Conference on Wireless Algorithms, Systems, and Applications WASA 2022*, Lecture Notes in Computer Science, vol. 13473, pp. 261-272, Cham: Springer Nature Switzerland.
+[3] Pengcheng Qian, Liang Wang*, Yaguang Lin, Jiarong Du and Xiuxiu Dong, “Joint Power Allocation and Task Offloading in NOMA Enhanced MEC for ABS-Assisted ITS,” in *IEEE Communications Letters*, vol. 27, no. 9, pp. 2403-2407, Sept. 2023.
 
 [//]: <> (At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn) 
 
