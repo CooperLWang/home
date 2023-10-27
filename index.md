@@ -4,9 +4,9 @@
 
 [//]: ！[MyPhoto](/home/LWang.png)  
 
-![LWang](https://user-images.githubusercontent.com/44579548/159713551-0488d31d-5fc0-4a08-9939-8915c0d8d3f1.png)
+[//]: ![LWang](https://user-images.githubusercontent.com/44579548/159713551-0488d31d-5fc0-4a08-9939-8915c0d8d3f1.png)
 
-<img src="/LWang.png" width="30%">
+<img src="/LWang.png" width="60%">
 
 ## Employment
 • Associate Professor, Jan. 2020 – Current.  
