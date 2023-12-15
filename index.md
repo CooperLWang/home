@@ -104,12 +104,12 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 • Institute of Electrical and Electronic Engineers (IEEE) Communications Society  
  – Member, 2016 – Current.
 
-[//]:  (– Member (No. 93947858), 2016 – Current.) 
+[//]: Member(No.93947858)2016-Current
 
 • China Computer Federation (CCF)  
 – Member, 2016 – Current.
 
-[//]: (– Member (No. 58529M), 2016 – Current.)
+[//]: Member(No.58529M)2016-Current(Here,NoSpaceForComment!) 
 
 # Contacts
 E-mail：
@@ -117,7 +117,9 @@ E-mail：
 • wangliang AT snnu.edu.cn
 
 • wangliangxd AT gmail.com
-        
+
+
+ 
 [//]: <> (<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246774&c=9740635" alt="AmazingCounters.com"></a></div>)
 
 [//]: <> (<p style="align: center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3246774&amp;c=9740635" alt="AmazingCounters.com"/></a></p>)
