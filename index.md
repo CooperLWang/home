@@ -103,11 +103,13 @@ China (IEEE CIC ICCC 2016), Jul. 27–29, 2016, Chengdu, China.
 ## Memberships
 • Institute of Electrical and Electronic Engineers (IEEE) Communications Society  
  – Member, 2016 – Current.
- [//]: <> (– Member (No. 93947858), 2016 – Current.)
+
+/** (– Member (No. 93947858), 2016 – Current.) */
 
 • China Computer Federation (CCF)  
 – Member, 2016 – Current.
-[//]: <> (– Member (No. 58529M), 2016 – Current.)
+
+/** (– Member (No. 58529M), 2016 – Current.) */
 
 # Contacts
 E-mail：
