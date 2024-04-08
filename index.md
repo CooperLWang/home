@@ -35,10 +35,10 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 
 
 # Publications
-1. **Liang Wang***, Hao Ye, Le Liang and Geoffrey Ye Li, “Learn to Compress CSI and Allocate Resources in Vehicular Networks,” in *IEEE Transactions on Communications*, vol. 68, no. 6, pp. 3640-3653, Jun. 2020.  
-2. Min Sheng, **Liang Wang***, Xijun Wang, Yan Zhang, Xu Chao and Jiandong Li, “Energy Efficient Beamforming in MISO Heterogeneous Cellular Networks with Wireless Information and Power Transfer”, in *IEEE Journal on Selected Areas in Communications*, vol. 34, no. 4, pp. 954-968, Apr. 2016.  
-3. **Liang Wang**, Min Sheng*, Yan Zhang, Xijun Wang, and Chao Xu, “Robust Energy Efficiency Maximization in Cognitive Radio Networks: The Worst-Case Optimization Approach”, in *IEEE Transactions on Communications*, vol. 63, no. 1, pp. 51-65, Jan. 2015.  
-4. **Liang Wang**, Min Sheng*, Xijun Wang, Yan Zhang, and Xiao Ma, “Mean Energy Efficiency Maximization in Cognitive Radio Channels With PU Outage Constraint”, in *IEEE Communications Letters*, vol. 19, no. 2, pp. 287-290, Feb. 2015.  
+[1] **Liang Wang***, Hao Ye, Le Liang and Geoffrey Ye Li, “Learn to Compress CSI and Allocate Resources in Vehicular Networks,” in *IEEE Transactions on Communications*, vol. 68, no. 6, pp. 3640-3653, Jun. 2020.  
+[2] Min Sheng, **Liang Wang***, Xijun Wang, Yan Zhang, Xu Chao and Jiandong Li, “Energy Efficient Beamforming in MISO Heterogeneous Cellular Networks with Wireless Information and Power Transfer”, in *IEEE Journal on Selected Areas in Communications*, vol. 34, no. 4, pp. 954-968, Apr. 2016.  
+[3] **Liang Wang**, Min Sheng*, Yan Zhang, Xijun Wang, and Chao Xu, “Robust Energy Efficiency Maximization in Cognitive Radio Networks: The Worst-Case Optimization Approach”, in *IEEE Transactions on Communications*, vol. 63, no. 1, pp. 51-65, Jan. 2015.  
+[4] **Liang Wang**, Min Sheng*, Xijun Wang, Yan Zhang, and Xiao Ma, “Mean Energy Efficiency Maximization in Cognitive Radio Channels With PU Outage Constraint”, in *IEEE Communications Letters*, vol. 19, no. 2, pp. 287-290, Feb. 2015.  
 5. **Liang Wang**, Min Sheng, Yan Zhang, and Hailong Jiang, “IM-Torch: Interference Mitigation via Traffic Offloading in Macro/Femtocell + WiFi HetNets”, *2013 IEEE 24th International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC)*, vol., no., pp. 1705-1709, 8-11 Sept. 2013.  
 6. **Liang Wang**, Min Sheng*, Yan Zhang and Xiao Ma, "CAM-MAC: channel aware multi-channel MAC protocol in cognitive radio network", in *Journal on Communications*, vol. 35, no.4, Apr. 2014.  
 7. Yanting Wang, Min Sheng, Xijun Wang, **Liang Wang**, and Jiandong Li, “Mobile-Edge Computing: Partial Computation Offloading Using Dynamic Voltage Scaling,” in *IEEE Transactions on Communications*, vol. 64, no. 10, pp. 4268-4282, Oct. 2016.  
@@ -78,9 +78,11 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 8. Zhenzheng Shi, Sept. 2023, E-mail: shizhenzheng AT snnu.edu.cn
 
 ## Students' Publications
-1. **Mengge Li**, Jiarong Du, Liang Wang\*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” in *2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021)*, Naples, FL, USA, 2021, pp. 1-6.
-2. **Jiarong Du**, Liang Wang\*, Yaguang Lin, Pengcheng Qian, “Vehicle-Road Cooperative Task Offloading with Task Migration in MEC-Enabled IoV”, in _International Conference on Wireless Algorithms, Systems, and Applications WASA 2022_, Lecture Notes in Computer Science, vol. 13473, pp. 261-272, Cham: Springer Nature Switzerland.
-3. **Pengcheng Qian**, Liang Wang\*, Yaguang Lin, Jiarong Du and Xiuxiu Dong, “Joint Power Allocation and Task Offloading in NOMA Enhanced MEC for ABS-Assisted ITS,” in *IEEE Communications Letters*, vol. 27, no. 9, pp. 2403-2407, Sept. 2023.
+1. **Mengge Li**, Jiarong Du, and Liang Wang\*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” in *2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021)*, Naples, FL, USA, 2021, pp. 1-6.
+2. **Jiarong Du**, Liang Wang\*, Yaguang Lin, and Pengcheng Qian, “Vehicle-Road Cooperative Task Offloading with Task Migration in MEC-Enabled IoV”, in _International Conference on Wireless Algorithms, Systems, and Applications WASA 2022_, Lecture Notes in Computer Science, vol. 13473, pp. 261-272, Cham: Springer Nature Switzerland.
+3. **Pengcheng Qian**, Liang Wang\*, Yaguang Lin, Jiarong Du, and Xiuxiu Dong, “Joint Power Allocation and Task Offloading in NOMA Enhanced MEC for ABS-Assisted ITS”, in *IEEE Communications Letters*, vol. 27, no. 9, pp. 2403-2407, Sept. 2023.
+4. **Dong Xiuxiu**, Liang Wang\*, Yaguang Lin, Pengcheng Qian, Jiarong Du, Cong Liu, “Intelligent Multi-resources Allocation for Emergency Communications with Limited User Equipment Energy in UAV-assisted Networks”, in 2023 IEEE 9th International Conference on Computer and Communications (ICCC), 2023, Accepted. 
+[5] **Mengge Li**, Liang Wang\*, Xiaoming Wang, Yaguang Lin, Jiarong Du, and Miao Ma, “Fairness-aware eMBB/URLLC spectrum resource multiplexing to ensure reliability in vehicular networks”, in Transactions on Emerging Telecommunications Technologies, 2024; 35(4):e4963. 
 
 [//]: <> (At present, my research group still needs one graduate pursuing Master of Engineering. Students interested in my research are welcome to apply actively via E-mail: wangliang@snnu.edu.cn) 
 
