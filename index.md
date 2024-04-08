@@ -90,8 +90,8 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 
 1. Computer Networks 
 2. Introduction to Artificial Intelligence
-3. Statistics 
-
+3. Statistics
+4. Mobile Computing
 
 # Professional Activities
 ## Conference Committee Memberships
