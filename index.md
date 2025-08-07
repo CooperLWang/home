@@ -10,7 +10,7 @@
 
 ## Employment
 • Associate Professor, Jan. 2020 – Current.  
-School of Computer Science, Shaanxi Normal University, Xi’an, China.
+School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi’an, China.
 
 • Visiting Scholar, Oct. 2018 – Oct. 2019.  
 School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA.
