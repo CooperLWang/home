@@ -5,9 +5,9 @@
 ### This website mainly contains Liang Wang's short biography, research interests, recent publications, funded projects, patents, research team (Graduate Students) and so on. 
 
 ### My research interests mainly focus on :
-1. Internet of Things (Vehicular Networks, LEO Satellite Networks, etc.) + Artificial Intelligence (Deep Reinforcement Learning, Federated Learning, etc.)
+1. Internet of Things (Vehicular Networks, UAVs, LEO Satellite Networks, etc.) + Artificial Intelligence (Deep Reinforcement Learning, Federated Learning, etc.)
 2. Resource Allocation for Green Wireless Networks
-3. Mobile(Multi-access) Edge Computing and Intelligence
+3. Mobile (Multi-access) Edge Computing and Intelligence
 
 ### If you are also interested in these fields, please feel free to contact me. 
 ### E-mail: wangliangATsnnu.edu.cn or wangliangxdATgmail.com.
