@@ -137,3 +137,5 @@ E-mail：
 
 [//]: <> ([img]http://cc.amazingcounters.com/counter.php?i=3246774&c=9740635[/img])
 [//]: <> ([url=http://www.amazingcounters.com]AmazingCounters.com[/url])
+
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3303960&c=9912193" alt="AmazingCounters.com"></a></div>
