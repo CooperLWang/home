@@ -68,7 +68,7 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 
 # Research Team
 ## Graduate Students
-1.  Mengge Li (李梦阁), Sept. 2019, E-mail: 192339 AT snnu.edu.cn
+1.  Mengge Li, Sept. 2019, E-mail: 192339 AT snnu.edu.cn
 2.  Jiarong Du, Sept. 2020, E-mail: dujiarong AT snnu.edu.cn
 3.  Pengcheng Qian, Sept. 2021, E-mail: qianpengcheng AT snnu.edu.cn
 4.  Xiuxiu Dong, Sept. 2021, E-mail: dongxiuxiu AT snnu.edu.cn
