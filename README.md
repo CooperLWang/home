@@ -10,5 +10,5 @@
 3. Mobile (Multi-access) Edge Computing and Intelligence
 
 ### If you are also interested in these fields, please feel free to contact me. 
-### E-mail: wangliangATsnnu.edu.cn or wangliangxdATgmail.com.
+### E-mail: wangliang AT snnu.edu.cn or wangliangxd AT gmail.com.
 ### Thanks again for your attention!
