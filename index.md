@@ -9,7 +9,7 @@
 [//]: <img src="/LWang.png" width="60%">
 
 ## Employment
-• Associate Professor, Jan. 2020 – Current.  
+• Associate Professor, Dec. 2019 – Current.  
 School of Artificial Intelligence and Computer Science, Shaanxi Normal University, Xi’an, China.
 
 • Visiting Scholar, Oct. 2018 – Oct. 2019.  
@@ -31,7 +31,7 @@ School of Telecommunications Engineering, Xidian University, Xi’an, China.
 # Research Interests 
 1. Vehicular Networks + Artificial Intelligence (Deep Reinforcement Learning, Federated Learning, etc.)
 2. Resource Allocation for Green Wireless Networks
-3. Mobile (Multi-access)  Edge Computing and Intelligence
+3. Mobile (Multi-access) Edge Computing and Intelligence
 
 
 # Publications
