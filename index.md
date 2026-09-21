@@ -80,6 +80,8 @@ method in multiple access systems. Chinese. Pat. No. ZL201610261419.1.
 10. Shixun Chi, Sept. 2024, E-mail: chisx AT snnu.edu.cn
 11. Jiayu Dang, Sept. 2025, E-mail: 42112233 AT snnu.edu.cn
 12. Xinyu Wang, Sept. 2025, E-mail: xinyuwang AT snnu.edu.cn
+13. Zhijia Fang, Sept. 2026, E-mail: fangzhijia AT snnu.edu.cn
+14. Jingge Wu, Sept. 2026, E-mail: wujingge AT snnu.edu.cn
 
 ## Students' Publications
 [1] **Mengge Li**, Jiarong Du, and Liang Wang\*, “eMBB-URLLC Multiplexing: A Preference-Based Method of Ensuring eMBB Reliability and Improving Users’ Satisfaction,” in *2021 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2021)*, Naples, FL, USA, 2021, pp. 1-6.    
